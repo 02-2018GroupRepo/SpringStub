@@ -1,8 +1,6 @@
 package passengerSide
 
-import org.springframework.web.client.RestTemplate
 import spock.lang.Specification
-import org.springframework.web.util.UriComponentsBuilder;
 import static org.mockito.ArgumentMatchers.*;
 
 

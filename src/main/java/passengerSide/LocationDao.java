@@ -13,8 +13,7 @@ public class LocationDao {
 
 
 
-        String ID = "78";
-        String tURL = "http://192.168.88.50 :8080/" + location;
+        String tURL = "http://192.168.88.28 :8080/" + location;
         UriComponentsBuilder builder = UriComponentsBuilder.
                 fromUriString(tURL);
 
